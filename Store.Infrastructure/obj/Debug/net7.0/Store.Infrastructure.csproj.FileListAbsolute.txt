@@ -1,0 +1,12 @@
+C:\Users\alira\Desktop\اموزشی\Store\Store.Infrastructure\bin\Debug\net7.0\Store.Infrastructure.deps.json
+C:\Users\alira\Desktop\اموزشی\Store\Store.Infrastructure\bin\Debug\net7.0\Store.Infrastructure.dll
+C:\Users\alira\Desktop\اموزشی\Store\Store.Infrastructure\bin\Debug\net7.0\Store.Infrastructure.pdb
+C:\Users\alira\Desktop\اموزشی\Store\Store.Infrastructure\obj\Debug\net7.0\Store.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\alira\Desktop\اموزشی\Store\Store.Infrastructure\obj\Debug\net7.0\Store.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alira\Desktop\اموزشی\Store\Store.Infrastructure\obj\Debug\net7.0\Store.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alira\Desktop\اموزشی\Store\Store.Infrastructure\obj\Debug\net7.0\Store.Infrastructure.AssemblyInfo.cs
+C:\Users\alira\Desktop\اموزشی\Store\Store.Infrastructure\obj\Debug\net7.0\Store.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alira\Desktop\اموزشی\Store\Store.Infrastructure\obj\Debug\net7.0\Store.Infrastructure.dll
+C:\Users\alira\Desktop\اموزشی\Store\Store.Infrastructure\obj\Debug\net7.0\refint\Store.Infrastructure.dll
+C:\Users\alira\Desktop\اموزشی\Store\Store.Infrastructure\obj\Debug\net7.0\Store.Infrastructure.pdb
+C:\Users\alira\Desktop\اموزشی\Store\Store.Infrastructure\obj\Debug\net7.0\ref\Store.Infrastructure.dll
